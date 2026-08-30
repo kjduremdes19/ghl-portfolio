@@ -164,7 +164,9 @@ Heading: **Years of running systems that break in public.**
 
 **Amazon advertising, at scale.** I managed $11.7M in ad spend across four accounts, returning $30.6M in sales at a 38.4% blended ACoS across 613,674 orders. Monthly budgets peaked past $300k. Accounts inherited, restructured, and made to hold, including two regulated categories where a mistake is not only expensive.
 
-**Technical support for Comcast Xfinity.** `[confirm: exact role title and dates — the resume records VXI / Comcast under "customer-experience & team-lead roles, 2017–2020"]` Frontline technical support, then team lead. Years of being the person a customer reached after the system had already failed them.
+**Tier 2 technical support for Comcast Xfinity.** Tier 2. I fixed live services on the phone, took the escalations that came off other reps’ queues, and carried an upsell target on the same calls. Years of being the person a customer reached after the system had already failed them.
+
+_Source: confirmed by Kirk, 2026-08-30. Title is **Tier 2 Technical Support**; duties are troubleshooting existing services, upselling current offers, and handling escalations beyond other tech supports. Dates deliberately omitted — the resume only records `Earlier: customer-experience & team-lead roles, 2017–2020`. The “team lead” promotion belongs to **Sun Valley Tek (Sep 2020 – Jul 2022)**, not Comcast, and must not be attached to this role._
 
 **Why it matters here.** Ad accounts and support queues punish the same thing: a process that only works while someone is watching it. Everything I build in HighLevel is built for the day nobody is.
 
@@ -186,7 +188,7 @@ Every build ships with:
 
 Timeline: a single pipeline with its workflows usually lands within a week. A full account build runs two to three.
 
-Billing: `[confirm: price band + retainer terms]` A one-time build fee, invoiced on completion. A monthly retainer only if you want me on call afterwards.
+Billing: Builds start at $800, as a one-time fee invoiced on completion. A monthly retainer only if you want me on call afterwards. _(Price band confirmed by Kirk, 2026-08-30: starts at $800.)_
 
 ---
 
@@ -205,7 +207,7 @@ That is what the handoff is for. Every workflow carries notes explaining what ea
 Then that is what you pay for. A broken workflow does not require a retainer to look at.
 
 **How do you charge?**
-`[confirm: price band]` A one-time fee for the build, invoiced on completion. Retainer afterwards is optional and separate.
+Builds start at $800, as a one-time fee invoiced on completion. Where it lands above that depends on how many pipelines and workflows the build covers, and you get the number on the call rather than in a proposal afterwards. Any retainer is optional and priced separately.
 
 **Where are you, and does that matter?**
 Davao, Philippines. I work US hours and overlap most European schedules. Everything above was delivered remotely.
@@ -233,7 +235,7 @@ Direct line: kirkjabeduremdes26@gmail.com
 
 - © 2026 Kirk Jabe Duremdes · WorkwidKirk
 - Amazon PPC work → ppc-portfolio.workwidkirk.com
-- Email · LinkedIn `[confirm: URL]`
+- Email · Facebook → https://www.facebook.com/1kijidi8 _(confirmed 2026-08-30 — Kirk has no LinkedIn to link; the personal Facebook profile replaces it)_
 - Privacy Policy · Terms
 
 Trademark note: HighLevel and GoHighLevel are trademarks of their owner. This site references a certification; it does not reproduce their mark.
@@ -242,8 +244,9 @@ Trademark note: HighLevel and GoHighLevel are trademarks of their owner. This si
 
 ## Open items before launch
 
-1. `[confirm]` Comcast Xfinity role title and dates.
-2. `[confirm]` Price band and retainer terms, used in section 8 and the FAQ.
-3. `[confirm]` HighLevel certified-admin member ID, if there is a public directory profile worth linking.
-4. `[confirm]` LinkedIn URL for the footer.
-5. Screenshots to capture: pipeline board, one workflow canvas, a branded email, the QR Setter scan page, the PPC Hub dashboard.
+1. ~~Comcast Xfinity role title and dates~~ — **resolved 2026-08-30.** Tier 2 Technical Support, undated. Team-lead claim removed (it was Sun Valley Tek).
+2. ~~Price band and retainer terms~~ — **resolved 2026-08-30.** Builds start at $800; retainer optional and priced separately.
+3. ~~HighLevel certified-admin member ID~~ — **dropped 2026-08-30.** No public directory profile linked; the plain “HighLevel Certified Admin” cert line stands.
+4. ~~LinkedIn URL~~ — **resolved 2026-08-30.** No LinkedIn. Footer links the personal Facebook profile instead, and it is also in the JSON-LD `sameAs`.
+5. **Open:** the footer in this document lists Privacy Policy · Terms; the built page has neither. The booking form collects names, emails and phone numbers into HighLevel, so a privacy page is worth having before the form goes live.
+6. Screenshots to capture: pipeline board, one workflow canvas, a branded email, the QR Setter scan page, the PPC Hub dashboard.
